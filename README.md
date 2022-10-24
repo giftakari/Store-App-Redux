@@ -1,4 +1,7 @@
-# Store App 
+# Store App Redux 
+
+This project is a clone of  https://github.com/giftakari/store-app but has been refratured using Redux and Redux Tool kit 
+ 
 
 ![Screen Shot 2022-10-22 at 11 10 52 am](https://user-images.githubusercontent.com/37270379/197310165-96a5dcd9-aee2-476f-9ca5-85bf4b9632c3.png)
 
